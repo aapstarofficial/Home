@@ -25,14 +25,14 @@
         </section>
         <section id="youtube">
             <h2>YouTube Channel</h2>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/YourVideoID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/@aapstarofficial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </section>
         <section id="socials">
             <h2>Follow Us on Social Media</h2>
             <ul>
-                <li><a href="https://www.facebook.com/YourPage">Facebook</a></li>
-                <li><a href="https://www.twitter.com/YourProfile">Twitter</a></li>
-                <li><a href="https://www.instagram.com/YourProfile">Instagram</a></li>
+                <li><a href="https://www.facebook.com/profile.php?id=100045185529266">Facebook</a></li>
+                <li><a href="https://www.twitter.com/@star_aap">Twitter</a></li>
+                <li><a href="https://www.instagram.com/@aap_star0123">Instagram</a></li>
             </ul>
         </section>
         <section id="contact">
